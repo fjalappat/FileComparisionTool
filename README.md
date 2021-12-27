@@ -1,0 +1,1 @@
+This project is to compare files in folders
